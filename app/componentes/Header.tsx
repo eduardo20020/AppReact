@@ -12,7 +12,7 @@ export default function Header() {
         <div className="text-xl font-bold text-gray-800 flex items-center space-x-2">
           <span>CodigoRegio</span>
           <Image
-            src="/pepe.png"
+            src="/imagen_salida.png"
             alt="Logo de CodigoRegio"
             width={50}
             height={50}
